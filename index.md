@@ -4,7 +4,7 @@
 
 |key|value|
 |---|---|
-|氏名|仙田雅大（Senda Masahiro）|
+|nickname|Semple|
 |Twitter|[@Semple_smile](https://twitter.com/Semple_smile)|
 |Qiita|[@Senple](https://qiita.com/Senple)|
 |note|[semple](https://note.com/_semple)|
