@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# 職務経歴書
 
-You can use the [editor on GitHub](https://github.com/Senple/Senple.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## 基本情報
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+|key|value|
+|---|---|
+|氏名|仙田雅大（Senda Masahiro）|
+|Twitter|[@Semple_smile](https://twitter.com/Semple_smile)|
+|Qiita|[@Senple](https://qiita.com/Senple)|
+|note|[semple](https://note.com/_semple)|
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 保有スキル
 
-```markdown
-Syntax highlighted code block
+- JavaScript + Vue.js でのフロントエンド開発・設計
+- Pythonでのサーバーサイド開発
+- 自然言語処理技術を用いた研究
+---
 
-# Header 1
-## Header 2
-### Header 3
+## 技術スタック
 
-- Bulleted
-- List
+### 言語
 
-1. Numbered
-2. List
+- JavaScript
+- Python
+- PHP（Wordpress）
 
-**Bold** and _Italic_ and `Code` text
+### フレームワーク・その他
 
-[Link](url) and ![Image](src)
-```
+- Vue.js
+- Nuxt.js（個人開発）
+- Bottle（個人開発）
+- Heroku（個人開発）
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
+## 職務経歴詳細
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Senple/Senple.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### エステートテクノロジーズ（2019/03〜現在）
 
-### Support or Contact
+不動産AIサービス Dr.Assetシリーズ の開発・運用。
+- **プロジェクト規模：**
+    - CTO直下の開発チーム
+- **役割：**
+    - 機能検討、設計、コーディング、チームビルディング
+- **プロジェクト詳細：**
+    - Vue.js + AWS での フロントエンド開発
+    - Python を用いたクローラー開発
+    - Python, Vue.js を用いた新サービスの開発
+    - 社外・社内勉強会の企画運営
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### インテア・ホールディングス（2017/07〜2019/03）
+
+習い事スクールの記事制作、集客戦略立案、SEO対策など
+- **プロジェクト規模：**
+    - インターンを含めた10~20人
+- **役割：**
+    - CMSツールの運用、改善
+- **プロジェクト詳細：**
+    - Wordpressの運用
+
+---
